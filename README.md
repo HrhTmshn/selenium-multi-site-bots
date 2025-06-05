@@ -32,7 +32,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourname/saucedemo-bot.git
+git clone https://github.com/HrhTmshn/selenium-multi-site-bots.git
 cd saucedemo-bot
 ```
 
