@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/HrhTmshn/selenium-multi-site-bots.git
-cd saucedemo-bot
+cd selenium-multi-site-bots
 ```
 
 2. Создайте и активируйте виртуальное окружение:
